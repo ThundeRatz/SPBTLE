@@ -27,9 +27,6 @@ No seu projeto do STM32CubeMX, na aba `Additional Software`, abra `STMicroelectr
 
 Um projeto exemplo pode ser encontrado em [freitas-renato/SPBTLE](https://github.com/freitas-renato/spbtle), feito com base no [STM32ProjectTemplate](https://github.com/ThundeRatz/STM32ProjectTemplate).
 
-## Estrutura de arquivos
-
-O arquivo `ble_types.h` possui 
 
 -------------
 
