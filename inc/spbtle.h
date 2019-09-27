@@ -91,6 +91,12 @@ void ble_leds(led_function_t on, led_function_t toggle);
  */
 void ble_process(void);
 
+/**
+ * @brief   Returns BlueNRG-MS status.
+ * @param   None
+ * @retval  status
+ */
+uint32_t ble_get_status(void);
 
 #ifdef __cplusplus
 }

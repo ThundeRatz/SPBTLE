@@ -216,6 +216,10 @@ void ble_process(void) {
     hci_user_evt_proc();
 }
 
+uint32_t ble_get_status(void) {
+    return connected;
+}
+
 /*****************************************
  * Private Functions Bodies Definitions
  *****************************************/
